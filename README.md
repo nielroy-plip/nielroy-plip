@@ -16,10 +16,6 @@ I'm based in Cotia, SP, and I specialize in full-stack development. I enjoy work
 - Pushed changes to [Password Generator](https://github.com/nielroy-plip/password_generator) on Jan 17, 2026.
 - Created a new branch in [nielroy-plip](https://github.com/nielroy-plip/nielroy-plip) on Jan 19, 2026.
 
-## Latest Blog Posts
-
-No blog posts available yet. Stay tuned!
-
 ## Connect with Me
 
 <a href="https://www.linkedin.com/in/lucas-freitas-rosário-8628b8206/" target="_blank" rel="noopener noreferrer"><Icon /> Linkedin</a> | <a href="https://www.instagram.com/just.lukinhas/" target="_blank" rel="noopener noreferrer"><Icon /> Instagram</a>
