@@ -1,35 +1,24 @@
 ## Hi there! 👋
 
-I'm Lucas, a passionate software developer from Cotia, SP, currently working at Zanthus. I actively work with modern technologies, focusing on clean code, scalability, and continuous learning through practical projects.
+I'm Lucas, a passionate developer currently working at Zanthus. I love creating innovative solutions and exploring new technologies. Let's build something great together!
 
 ## About Me
 
-I'm a 21-year-old software developer focused on delivering impactful projects. I work with different technologies, value clean and scalable solutions, and continuously evolve through practical experience. Based in Cotia, SP, open to new opportunities.
+I'm based in Cotia, SP, and I specialize in full-stack development. I enjoy working with technologies like Next.js, Node.js, and TypeScript to create impactful applications. I am currently open to new opportunities and collaborations.
 
 ## Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=git,react,nodejs,vite,py,js,tailwind,nextjs,prisma&perline=8)](https://skillicons.dev)
-
-## Top Projects
-
-
-
-
-
-
-
-## GitHub Stats
-🏆 Public Repositories: 11  
-👥 Followers: 1  
-🔗 Following: 6  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nielroy-plip&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nielroy-plip&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,nodejs,react,bootstrap,git,py,tailwind,vite,js,prisma&perline=8)](https://skillicons.dev)
 
 ## Recent Activity
 
-- Pushed to [site-calculadora](https://github.com/nielroy-plip/site-calculadora) on January 15, 2026.
-- Pushed to [password_generator](https://github.com/nielroy-plip/password_generator) on January 17, 2026.
-- Pushed to [Assistente-de-Meta](https://github.com/nielroy-plip/Assistente-de-Meta) on July 31, 2025.
+- Pushed to [Espaco Reconectar](https://github.com/nielroy-plip/espaco-reconectar) on Jan 19, 2026.
+- Pushed changes to [Password Generator](https://github.com/nielroy-plip/password_generator) on Jan 17, 2026.
+- Created a new branch in [nielroy-plip](https://github.com/nielroy-plip/nielroy-plip) on Jan 19, 2026.
+
+## Latest Blog Posts
+
+No blog posts available yet. Stay tuned!
 
 ## Connect with Me
 
