@@ -10,11 +10,21 @@ I'm based in Cotia, SP, and I specialize in full-stack development. I enjoy work
 
 [![My Skills](https://skillicons.dev/icons?i=nextjs,nodejs,react,bootstrap,git,py,tailwind,vite,js,prisma&perline=8)](https://skillicons.dev)
 
+## GitHub Stats
+🌟 Public Repositories: 14
+👥 Followers: 1
+👤 Following: 6
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nielroy-plip&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nielroy-plip&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Recent Activity
 
-- Pushed to [Espaco Reconectar](https://github.com/nielroy-plip/espaco-reconectar) on Jan 19, 2026.
-- Pushed changes to [Password Generator](https://github.com/nielroy-plip/password_generator) on Jan 17, 2026.
-- Created a new branch in [nielroy-plip](https://github.com/nielroy-plip/nielroy-plip) on Jan 19, 2026.
+- Pushed to [ReadLog-ia](https://github.com/nielroy-plip/ReadLog-ia) on January 20, 2026.
+- Created a pull request for [ReadLog-ia](https://github.com/nielroy-plip/ReadLog-ia) on January 20, 2026.
+- Pushed to [nielroy-plip](https://github.com/nielroy-plip/nielroy-plip) on January 19, 2026.
+- Created a new branch in [nielroy-plip](https://github.com/nielroy-plip/nielroy-plip) on January 19, 2026.
+- Pushed to [espaco-reconectar](https://github.com/nielroy-plip/espaco-reconectar) on January 19, 2026.
 
 ## Connect with Me
 
