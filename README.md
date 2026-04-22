@@ -20,7 +20,7 @@ I enjoy simplifying processes, automating flows and delivering user-friendly exp
 
 ## Skills & Technologies
 
-https://skillicons.dev/icons?i=ts,java,py,react,nextjs,nodejs,html,css,bootstrap,git,js&perline=8
+[![My Skills](https://skillicons.dev/icons?i=typescript,nextjs,nodejs,react,bootstrap,git,py,tailwind,vite,js,java,prisma&perline=8)](https://skillicons.dev)
 
 ## GitHub Stats
 
