@@ -8,7 +8,7 @@ I'm based in Cotia, SP, and I specialize in full-stack development. I enjoy work
 
 ## Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,nodejs,react,bootstrap,git,py,tailwind,vite,js,prisma&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,nodejs,react,bootstrap,git,py,tailwind,vite,js,java,prisma&perline=8)](https://skillicons.dev)
 
 ## GitHub Stats
 🌟 Public Repositories: 14
