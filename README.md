@@ -22,28 +22,6 @@ I enjoy simplifying processes, automating flows and delivering user-friendly exp
 
 ts,java,py,react,nextjs,nodejs,html,css,bootstrap,git,github,js
 
-## Top Projects
-
-- [Bymen](https://github.com/nielroy-plip/Bymen) — Projeto mobile em React Native + Expo para controle de estoque, vendas e uso interno de produtos para barbearias.  
-  • Language: TypeScript  
-  • Stars: 0 ⭐  • Forks: 0  • Issues: 0  • Size: 95560 KB  
-
-- [espaco-reconectar](https://github.com/nielroy-plip/espaco-reconectar) — Full‑stack (Next.js + Node.js + TypeScript) para um espaço terapêutico, com bot de WhatsApp para fluxo de agendamento e agenda integrada.  
-  • Language: TypeScript  
-  • Stars: 0 ⭐  • Forks: 0  • Issues: 0  
-
-- [API-Notifications](https://github.com/nielroy-plip/API-Notifications) — API em Java para gerenciamento de notificações e integrações. (Recent work — active development)  
-  • Language: Java  
-  • Stars: 0 ⭐  • Forks: 0  • Issues: 0  
-
-- [LimpaTemp](https://github.com/nielroy-plip/LimpaTemp) — Utilitário em Python para limpeza de arquivos temporários / manutenção.  
-  • Language: Python  
-  • Stars: 0 ⭐  • Forks: 0  • Issues: 0  
-
-- [ReadLog-ia](https://github.com/nielroy-plip/ReadLog-ia) — Projeto em TypeScript relacionado a leitura / análise de logs com suporte a IA.  
-  • Language: TypeScript  
-  • Stars: 0 ⭐  • Forks: 0  • Issues: 0
-
 ## GitHub Stats
 
 Here are some quick GitHub stats for my account:
