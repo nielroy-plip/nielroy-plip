@@ -2,7 +2,7 @@
 
 Hi there! 👋
 
-I'm Lucas — a passionate Frontend / Full‑stack developer at Zanthus. I build intuitive web and mobile apps, APIs and automation tools that make everyday workflows simpler and more reliable. 🚀
+I'm Lucas — a passionate Frontend / Full‑stack and Mid-level Support Analyst at Zanthus. I build intuitive web and mobile apps, APIs and automation tools that make everyday workflows simpler and more reliable. 🚀
 
 Tagline: Building practical products with TypeScript, Node.js and thoughtful engineering.
 
